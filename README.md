@@ -48,7 +48,7 @@ Sóc estudiant d'SMX amb interès per la informàtica, les xarxes i la seguretat
 
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
 
-|[Windows](https://img.shields.io/badge/Windows-e=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-e=flat-square&logo=windows&logoColor=white)
 
 ### Xarxes
 
