@@ -43,7 +43,7 @@ Sóc estudiant d'SMX amb interès per la informàtica, les xarxes i la seguretat
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu=white)
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
-tps://img.shields.io/badge/Windows-e=flat-square&logo=windows&logoColor=white)
+|[Windows](https://img.shields.io/badge/Windows-e=flat-square&logo=windows&logoColor=white)
 
 ### Xarxes
 
@@ -91,14 +91,6 @@ Practico i arbitro partits de voleibol, una activitat que m'ha ajudat a desenvol
 ### 🎸 Música
 
 Toco el baix elèctric i m'agrada la música. Aquesta afició m'ha permès desenvolupar la constància, la creativitat i el treball en equip.
-
----
-
-## 📫 Contacte
-
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/EL
-
-📧 Correu electrònic: *afegeix aquí el teu correu si vols mostrar-lo*
 
 ---
 
