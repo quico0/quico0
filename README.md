@@ -1,68 +1,105 @@
-# Hola! Sóc en Quico Carbonell Verdura 👋
+# 👋 Hola! Sóc en Quico Carbonell Verdura
 
-## Sobre mi
+## 💻 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
 
-Sóc estudiant de Sistemes Microinformàtics i Xarxes (SMX) amb interès per la tecnologia, les xarxes i la seguretat informàtica. M'agrada aprendre coses noves i continuar formant-me per ampliar els meus coneixements i habilitats en el sector informàtic.
+Sóc estudiant d'SMX amb interès per la informàtica, les xarxes i la seguretat informàtica. M'agrada aprendre coses noves i continuar formant-me per ampliar els meus coneixements i habilitats dins del sector TIC.
 
-## Què estic estudiant
+---
 
-Actualment estic cursant el cicle formatiu de SMX, on estic aprenent:
+## 🚀 Sobre mi
 
-- Muntatge i manteniment d'equips informàtics.
-- Sistemes operatius Windows i Linux.
-- Xarxes locals i serveis de xarxa.
-- Seguretat informàtica bàsica.
-- Programació i automatització de tasques.
-- Ús d'eines de virtualització.
+- 🎓 Estudiant de SMX
+- 💻 Apassionat de la tecnologia i l'administració de sistemes
+- 🌐 Interessat en xarxes i ciberseguretat
+- 📚 Amb ganes de continuar estudiant i aprenent
+- 🛠️ M'agrada resoldre problemes tècnics i experimentar amb noves eines
 
-## Què vull aprendre
+---
 
-Els meus objectius de futur són:
+## 📖 Actualment estic aprenent
 
-- Aprendre més sobre ciberseguretat.
-- Millorar els meus coneixements de xarxes i administració de sistemes.
-- Aprendre nous llenguatges de programació.
-- Continuar estudiant i especialitzant-me en el sector TIC.
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=goColor=white
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&hite
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=oColor=white
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=oColor=white
+![GitHub](https://img.shields.io/badge/GitHub-le=for-the-badge&logo=github&logoColor=white
 
-## Competències i tecnologies
+### Àrees de coneixement
+
+- Instal·lació i manteniment d'equips
+- Sistemes operatius Windows i Linux
+- Xarxes locals
+- Configuració DHCP i DNS
+- Virtualització amb VirtualBox
+- Git i GitHub
+- Programació bàsica amb Python
+- Documentació amb Markdown
+
+---
+
+## 🧰 Tecnologies i eines
 
 ### Sistemes Operatius
-- Windows
-- Linux (Ubuntu, Zorin OS)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu=white
+![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
+tps://img.shields.io/badge/Windows-e=flat-square&logo=windows&logoColor=white
 
 ### Xarxes
-- Configuració IP
-- DHCP
-- DNS
-- VirtualBox
-- Wireshark
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=oColor=white
+![Kea DHCP](https://img.shields.io/badge/Kea_DHCP-00599-square
+![DNS](https://img.shields.io/badge/D39?style=flat-square
 
 ### Programació
-- Python
-- Markdown
-- Git i GitHub
 
-## Projectes i pràctiques
+![Python](https://img.shields.io/badge/Pythonyle=flat-square&logo=python&logoColor=white
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdownhite
 
-Algunes de les pràctiques que realitzo durant els meus estudis:
+---
 
-- Configuració de xarxes virtuals.
-- Instal·lació i configuració de servidors Linux.
-- Captura i anàlisi de trànsit amb Wireshark.
-- Configuració de serveis DHCP.
-- Exercicis de programació en Python.
-- Documentació de pràctiques amb Markdown i GitHub.
+## 📂 Projectes i pràctiques
 
-## Interessos personals
+Durant els meus estudis he realitzat pràctiques com:
 
-Fora dels estudis, m'agrada:
+- 🔹 Configuració de servidors Linux
+- 🔹 Configuració de DHCP amb Kea
+- 🔹 Anàlisi de paquets amb Wireshark
+- 🔹 Configuració de xarxes virtuals
+- 🔹 Exercicis de programació en Python
+- 🔹 Creació i documentació de repositoris amb GitHub
 
-🏐 Jugar i arbitrar voleibol.
+---
 
-🎸 Tocar el baix elèctric i aprendre música.
+## 🎯 Objectius professionals
 
-💻 Aprendre noves tecnologies relacionades amb la informàtica.
+Vull continuar formant-me en el món de la informàtica i especialitzar-me en àrees com:
 
-## Objectius professionals
+- 🛡️ Ciberseguretat
+- 🌐 Xarxes
+- 🖥️ Administració de sistemes
+- ☁️ Tecnologies cloud
 
-Vull continuar la meva formació en l'àmbit de la informàtica i adquirir experiència professional per especialitzar-me en administració de sistemes, xarxes o ciberseguretat.
+---
+
+## 🎵 Interessos personals
+
+### 🏐 Voleibol
+
+Practico i arbitro partits de voleibol, una activitat que m'ha ajudat a desenvolupar la responsabilitat, la concentració i la presa de decisions.
+
+### 🎸 Música
+
+Toco el baix elèctric i m'agrada la música. Aquesta afició m'ha permès desenvolupar la constància, la creativitat i el treball en equip.
+
+---
+
+## 📫 Contacte
+
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/EL
+
+📧 Correu electrònic: *afegeix aquí el teu correu si vols mostrar-lo*
+
+---
+
+⭐ Gràcies per visitar el meu perfil de GitHub!
