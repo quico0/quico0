@@ -56,7 +56,6 @@ Sóc estudiant d'SMX amb interès per la informàtica, les xarxes i la seguretat
 
 ![Kea DHCP](https://img.shields.io/badge/Kea_DHCP-00599-square)
 
-![DNS](https://img.shields.io/badge/D39?style=flat-square)
 
 
 ### Programació
