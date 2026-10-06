@@ -26,7 +26,6 @@ Sóc estudiant d'SMX amb interès per la informàtica, les xarxes i la seguretat
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=oColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-le=for-the-badge&logo=github&logoColor=white)
 
 ### Àrees de coneixement
 
