@@ -41,20 +41,20 @@ Sóc estudiant d'SMX amb interès per la informàtica, les xarxes i la seguretat
 
 ### Sistemes Operatius
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu=white
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu=white)
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
-tps://img.shields.io/badge/Windows-e=flat-square&logo=windows&logoColor=white
+tps://img.shields.io/badge/Windows-e=flat-square&logo=windows&logoColor=white)
 
 ### Xarxes
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=oColor=white
-![Kea DHCP](https://img.shields.io/badge/Kea_DHCP-00599-square
-![DNS](https://img.shields.io/badge/D39?style=flat-square
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=oColor=white)
+![Kea DHCP](https://img.shields.io/badge/Kea_DHCP-00599-square)
+![DNS](https://img.shields.io/badge/D39?style=flat-square)
 
 ### Programació
 
-![Python](https://img.shields.io/badge/Pythonyle=flat-square&logo=python&logoColor=white
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdownhite
+![Python](https://img.shields.io/badge/Pythonyle=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdownhite)
 
 ---
 
