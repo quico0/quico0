@@ -24,17 +24,6 @@ Sóc estudiant d'SMX amb interès per la informàtica, les xarxes i la seguretat
 
 ---
 
-## 🎯 Objectius professionals
-
-Vull continuar formant-me en el món de la informàtica i especialitzar-me en àrees com:
-
-- 🛡️ Ciberseguretat
-- 🌐 Xarxes
-- 🖥️ Administració de sistemes
-- ☁️ Tecnologies cloud
-
----
-
 ## 🎵 Interessos personals
 
 ### 🏐 Voleibol
@@ -47,4 +36,4 @@ Toco el baix elèctric i m'agrada la música. Aquesta afició m'ha permès desen
 
 ---
 
-<center><p>Gràcies per visitar el meu perfil!</p></center>
+<p align="center">Gràcies per visitar el meu perfil! 👋</p>
