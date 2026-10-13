@@ -61,22 +61,19 @@ Toco el baix elèctric i m'agrada la música. Aquesta afició m'ha permès desen
 
 ---
 
-## La Meva Activitat 
+<h2 align="center">📈 La meva activitat</h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table>
     <tr>
-      <td align="center" valign="middle">
-        <!-- Gràfic de línies de contribucions de quico0 -->
-        <img src="https://vercel.app" alt="Gràfic d'activitat de quico0" height="195px" />
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/quico0/quico0/output/0-profile-details.svg" alt="Profile Details" />
       </td>
-      <td align="center" valign="middle">
-        <!-- Targeta d'estadístiques generals de quico0 -->
-        <img src="https://vercel.app" alt="Estadístiques de quico0" height="195px" />
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/quico0/quico0/output/3-stats.svg" alt="Profile Stats" />
       </td>
     </tr>
   </table>
 </div>
-
 
 ⭐ Gràcies per visitar el meu perfil de GitHub!
