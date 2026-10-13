@@ -1,4 +1,8 @@
-<center>![Profile views](https://komarev.com/ghpvc/?username=quico0ri&color=blue) ![Stars](https://img.shields.io/github/stars/quico0?style=social) ![Followers](https://img.shields.io/github/followers/quico0?style=social)</center>
+<center>
+  <img src="https://komarev.com/ghpvc/?username=quico0ri&color=blue" alt="Profile views">
+  <img src="Stars" alt="https://img.shields.io/github/stars/quico0?style=social">
+  <img src="https://img.shields.io/github/followers/quico0?style=social" alt="Followers">
+</center>
 
 ---
 
@@ -61,4 +65,4 @@ Toco el baix elèctric i m'agrada la música. Aquesta afició m'ha permès desen
 
 ---
 
-<center>Gràcies per visitar el meu perfil!</center>
+<center> Gràcies per visitar el meu perfil! </center>
