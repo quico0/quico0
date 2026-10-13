@@ -1,26 +1,8 @@
-<center>
-  <img src="https://komarev.com/ghpvc/?username=quico0ri&color=blue" alt="Profile views">
-  <img src="https://img.shields.io/github/stars/quico0?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/followers/quico0?style=social" alt="Followers">
-</center>
-
----
-
 # 👋 Hola! Sóc en Quico Carbonell Verdura
 
 ## 💻 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
 
 Sóc estudiant d'SMX amb interès per la informàtica, les xarxes i la seguretat informàtica. M'agrada aprendre coses noves i continuar formant-me per ampliar els meus coneixements i habilitats dins del sector TIC.
-
----
-
-## 🚀 Sobre mi
-
-- 🎓 Estudiant de SMX
-- 💻 Apassionat de la tecnologia i l'administració de sistemes
-- 🌐 Interessat en xarxes i ciberseguretat
-- 📚 Amb ganes de continuar estudiant i aprenent
-- 🛠️ M'agrada resoldre problemes tècnics i experimentar amb noves eines
 
 ---
 
@@ -65,4 +47,4 @@ Toco el baix elèctric i m'agrada la música. Aquesta afició m'ha permès desen
 
 ---
 
-<center> Gràcies per visitar el meu perfil! </center>
+<center><p>Gràcies per visitar el meu perfil!</p></center>
