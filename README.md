@@ -2,7 +2,7 @@
 
 ## 💻 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
 
-Sóc estudiant d'SMX amb interès per la informàtica, les xarxes i la seguretat informàtica. M'agrada aprendre coses noves i continuar formant-me per ampliar els meus coneixements i habilitats dins del sector TIC.
+Sóc estudiant d'SMX a l'Escola Pia Mataro Santa Anna tinc interès per la informàtica, les xarxes i la seguretat informàtica. M'agrada aprendre coses noves i continuar formant-me per ampliar els meus coneixements i habilitats dins del sector TIC.
 
 ---
 
