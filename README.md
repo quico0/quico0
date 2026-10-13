@@ -1,3 +1,11 @@
+![Profile views](https://komarev.com/ghpvc/?username=quico0ri&color=blue)
+
+![Followers](https://img.shields.io/github/followers/quico0i?style=social)
+
+![Stars](https://img.shields.io/github/stars/quico0?style=social)
+
+---
+
 # 👋 Hola! Sóc en Quico Carbonell Verdura
 
 ## 💻 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
