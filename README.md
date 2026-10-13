@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=quico0ri&color=blue) ![Stars](https://img.shields.io/github/stars/quico0?style=social) ![Followers](https://img.shields.io/github/followers/quico0?style=social)
+<center>![Profile views](https://komarev.com/ghpvc/?username=quico0ri&color=blue) ![Stars](https://img.shields.io/github/stars/quico0?style=social) ![Followers](https://img.shields.io/github/followers/quico0?style=social)</center>
 
 ---
 
@@ -61,19 +61,4 @@ Toco el baix elèctric i m'agrada la música. Aquesta afició m'ha permès desen
 
 ---
 
-<h2 align="center">📈 La meva activitat</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/quico0/quico0/output/0-profile-details.svg" alt="Profile Details" />
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/quico0/quico0/output/3-stats.svg" alt="Profile Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-⭐ Gràcies per visitar el meu perfil de GitHub!
+<center>Gràcies per visitar el meu perfil!</center>
