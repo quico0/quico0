@@ -1,8 +1,8 @@
-![Profile views](https://komarev.com/ghpvc/?username=quico0ri&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=quico0ri&color=blue) ![Stars](https://img.shields.io/github/stars/quico0?style=social) ![Followers](https://img.shields.io/github/followers/quico0?style=social)
 
-![Followers](https://img.shields.io/github/followers/quico0?style=social)
 
-![Stars](https://img.shields.io/github/stars/quico0?style=social)
+
+
 
 ---
 
