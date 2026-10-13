@@ -36,4 +36,4 @@ Toco el baix elèctric i m'agrada la música. Aquesta afició m'ha permès desen
 
 ---
 
-Gràcies per visitar el meu perfil! 👋
+# Gràcies per visitar el meu perfil! 👋
