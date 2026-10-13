@@ -67,22 +67,16 @@ Toco el baix elèctric i m'agrada la música. Aquesta afició m'ha permès desen
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="middle">
-        <!-- Gràfic de línies de contribucions (en català) -->
-        <img src="https://vercel.app" alt="Estadístiques de GitHub de quico0" height="195px" />
+        <!-- Gràfic de línies de contribucions de quico0 -->
+        <img src="https://vercel.app" alt="Gràfic d'activitat de quico0" height="195px" />
       </td>
       <td align="center" valign="middle">
-        <!-- Targeta d'estadístiques generals (en català) -->
-        <img src="https://vercel.app" alt="Llenguatges més utilitzats de quico0" height="195px" />
+        <!-- Targeta d'estadístiques generals de quico0 -->
+        <img src="https://vercel.app" alt="Estadístiques de quico0" height="195px" />
       </td>
     </tr>
   </table>
 </div>
 
-<br />
-
-<div align="center">
-  <h3>El meu gràfic d'activitat estil Arcade 🕹️</h3>
-  <img src="https://githubusercontent.com" alt="Gràfic d'activitat Pac-Man de quico0" width="100%" />
-</div>
 
 ⭐ Gràcies per visitar el meu perfil de GitHub!
